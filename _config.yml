@@ -1,7 +1,44 @@
 theme: jekyll-theme-time-machine
+<!DOCTYPE html>
+<html lang="en-us">
 <head>
-    <h1>Can Alaluf</h1>
-    <p>
-    My name is Can alaluf and this is my github page
-    </p>
+  <meta charset="UTF-8">
+  <title>My Bio</title>
 </head>
+
+<body>
+<h1> Can Alaluf</h1>
+<img src="../assets/62243575_10161678730670104_9033386417669013504_o.jpg" style="width:500px;height:600px"; alt = "Can Alaluf's img"> 
+<h2> Who is Can Alaluf</h2>
+<p>
+  Can alaluf is an idiot
+</p>
+<p>
+  He really is...
+</p>
+<br>
+<ol>
+  <li><strong>Facebook</strong>: <a href="https://www.facebook.com/can.alaluf" target="_blank">Can Alaluf's Facebook</a> </li>
+  <li><a href="https://www.linkedin.com/in/canalaluf/" target="_blank">Can Alaluf's Linkedin</a> </li>
+</ol>
+<table style="width:100%">
+  <tr>
+    <th>Movies</th>
+    <th>Food</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td>Elf</td>
+    <td>Potato</td>
+    <td>Sex</td>
+  </tr>
+  <tr>
+    <td>Titanic</td>
+    <td>Cheese</td>
+    <td>Walk</td>
+  </tr>
+</table>
+
+</body>
+
+</html>
